@@ -1,0 +1,12 @@
+#root {
+  text-align: center;
+}
+.label1,
+.label3 {
+  top: -33%;
+  left: 3%;
+}
+.label2 {
+  top: -8%;
+  left: 3%;
+}
